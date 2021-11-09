@@ -1,9 +1,9 @@
 <H1 align="center">
     Gravitational Microlensing
 </H1>
-<H3 align="center">
+<H4 align="center">
     using the Paczynski Model and point-source approximation
-</H3>
+</H4>
 
 # Overview
 In gravitational microlensing, a star temporarily brightens when its light is focused by the gravitational field of another star that happens to be passing in front (from our perspective). Here is an example of Gravtitational Microlensing:
