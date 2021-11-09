@@ -1,3 +1,8 @@
+<H1 align="center">
+    Gravitational Microlensing
+</H1>
+
+
 # Overview
 In gravitational microlensing, a star temporarily brightens when its light is focused by the gravitational field of another star that happens to be passing in front (from our perspective). Here is an example of Gravtitational Microlensing:
 
